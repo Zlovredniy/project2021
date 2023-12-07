@@ -15,6 +15,6 @@ def translate_to_russian_layout(text):
     return translated_text
 
 # Пример использования
-english_text = "z k.,k. jkfleirb c rhtvjv bp rjyxb"
+english_text = "Написать сюда свой текст"
 russian_text = translate_to_russian_layout(english_text)
 print(russian_text)
